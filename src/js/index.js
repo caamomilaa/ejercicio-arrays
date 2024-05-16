@@ -42,5 +42,7 @@ fiveNumbers([1, 4, 9, 8, 7]);
 
 //- Crea una función que reciba un array vacío y lo devuelva con 3 números aleatorios entre 0 y 100.
 
-const empty = number => {};
+const empty = number => {
+    
+};
 empty([]);
